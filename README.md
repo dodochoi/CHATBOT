@@ -8,8 +8,8 @@
 
 ### 🙋‍♂️ 역할
 
-- **로그인 관리**: 회원가입 및 로그인 관리
-- **챗봇기능(LangChain)**: 
+- **로그인 관리**: 회원가입 및 로그인 기능을 추가하여 사용자가 계정을 생성하고 인증할 수 있도록 구현했습니다.
+- **LangChain 기반 백엔드 개발**: Django 프레임워크를 사용하여 LangChain과 OpenAI API를 통합한 백엔드를 구현했습니다.
 
 ### 📖 설명
 
@@ -18,4 +18,6 @@
 ![Snipaste_2024-08-29_15-12-47](https://github.com/user-attachments/assets/cf0a7e2d-7d2d-4bed-a43d-cf3bcb3b0e22)
 ![Snipaste_2024-08-29_15-12-54](https://github.com/user-attachments/assets/8f2b6942-6761-42ec-8b43-1bd727348280)
 ![Snipaste_2024-08-29_15-13-31](https://github.com/user-attachments/assets/fe4a4b00-74b1-4482-b95a-79953d840d5f)
+![Snipaste_2024-08-29_21-38-11](https://github.com/user-attachments/assets/bca6e6e7-2f7b-422a-83da-fe3e39eafc12)
+![Snipaste_2024-08-29_21-38-20](https://github.com/user-attachments/assets/56ce38ac-e216-4d9d-9ebc-bd86eedb39a4)
 ![Snipaste_2024-08-29_15-12-00](https://github.com/user-attachments/assets/cfc6f4cc-11db-471e-a135-6af96bcee703)
