@@ -10,5 +10,6 @@ urlpatterns = [
     path('chat', views.chat_view, name='chat'),
     path('clear_chat', views.clear_chat, name='clear_chat'),
     path('sign', views.sign, name='sign'),
+    path('history', views.history, name='history'),
     
 ]

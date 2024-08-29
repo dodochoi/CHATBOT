@@ -3,11 +3,11 @@ from django.http import HttpResponse, JsonResponse
 from django.utils import timezone
 from langchain_community.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage, AIMessage
-from langchain_community.embeddings import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_openai import OpenAIEmbeddings
+from langchain_chroma import Chroma
 from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferMemory, ChatMessageHistory
-
+from langchain.memory import ConversationBufferMemory
+from langchain_community.chat_message_histories import ChatMessageHistory
 import json
 
 from dotenv import load_dotenv
